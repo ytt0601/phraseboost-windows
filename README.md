@@ -12,10 +12,23 @@ PhraseBoost は、よく使う定型文をワンアクションで呼び出し�
 
 ## スクリーンショット
 
-<!-- 下に実際の画面のスクリーンショット / 操作 GIF を配置してください -->
-<!-- 例: ![PhraseBoost の操作画面](docs/demo.gif) -->
+> 操作デモ・画面キャプチャは準備中です。
 
-> 操作デモ(GIF)をここに掲載予定です。
+<!--
+画像を docs/ フォルダに置いたら、下のコメントを外すと掲載されます。
+推奨ファイル名:
+  docs/demo.gif         … 略語入力→展開の操作デモ
+  docs/main-window.png  … メイン画面（定型文一覧）
+  docs/clipboard.png    … クリップボード履歴
+  docs/settings.png     … 設定画面
+
+![PhraseBoost 操作デモ](docs/demo.gif)
+
+| メイン画面 | クリップボード履歴 | 設定 |
+|:--:|:--:|:--:|
+| ![メイン画面](docs/main-window.png) | ![クリップボード履歴](docs/clipboard.png) | ![設定](docs/settings.png) |
+-->
+
 
 ---
 
