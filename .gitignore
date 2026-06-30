@@ -1,0 +1,14 @@
+# このショーケースリポジトリには README / LICENSE のみを置きます。
+# 実行ファイルは Releases で配布するため、リポジトリ本体にはコミットしません。
+*.exe
+*.dll
+*.pdb
+*.zip
+*.phe
+
+# OS / エディタ
+Thumbs.db
+desktop.ini
+.vs/
+.idea/
+.vscode/
